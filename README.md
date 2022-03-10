@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Machine Learning and Deep learning specially Computer Vision.
 - 🔭 I’m currently working on Computer vision projects 
 - 👯 I’m looking to collaborate on open source projects
-- 📖 Currently Reading: "Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow" by Aurélien Géron and you can see my notes <a href="https://github.com/alykhaled/Hands-On-Machine-Learning-Notes">here</a>
+- 📖 Currently Reading: "Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow" by Aurélien Géron and you can see my notes 
 - 🎓 I’m currently studying engineering at Cairo University
 
 ### Connect with me:

@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **DEVops , python , ML , Computer vission , embedded systems**
 
-- 📫 How to reach me **pa83954@gmail.com**
+- 📫 How to reach me **pierrebassily@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

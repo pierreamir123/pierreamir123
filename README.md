@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pierre Amir Bassily</h1>
-<h3 align="center">I'm a medical software Engineering Student , a developer and also a tech geek!!</h3>
+<h3 align="center">I'm a medical machine learning engineer @ Cognitronix and also a tech geek!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pierreamir123&label=Profile%20views&color=0e75b6&style=flat" alt="pierreamir123" /> </p>
 

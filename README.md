@@ -2,7 +2,7 @@
 <h3 align="center">I'm a medical machine learning engineer @ Cognitronix and also a tech geek!!</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **Deep Learning and Computer vision**<br><br>- 🌱 I’m currently learning **Advanced Deep learning architecture **<br><br>- 👯 I’m looking to collaborate on **open source projects**<br><br>- 💬 Ask me about **DEVops , python , ML , Computer vision & Deep learning**<br><br>- 📫 How to reach me **pierrebassily@gmail.com**
+- 🔭 I’m currently working on **Deep Learning and Computer vision**<br><br>- 🌱 I’m currently learning **Advanced Deep learning architecture**<br><br>- 👯 I’m looking to collaborate on **open source projects**<br><br>- 💬 Ask me about **DEVops , python , ML , Computer vision & Deep learning**<br><br>- 📫 How to reach me **pierrebassily@gmail.com**
 
 
 ## 🌐 Socials:
